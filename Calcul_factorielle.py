@@ -1,4 +1,4 @@
-#progralle qui calcule la factorielle d'un nombre
+#progralle qui calcule la factorielle d'un couscous
 # Date: 08/01/2024
 # Auteur: B. KLEIN
 
